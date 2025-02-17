@@ -136,6 +136,16 @@ const ResumeBuilder: ResumeBuilderType = {
 };
 ```
 
+**Print your Resume**
+
+To print your resume, press "Ctrl+P" on Windows or "Cmd+P" on Mac to open print dialog.
+
+After that, use this setting to print your resume
+
+- Paper Size: **A4**
+- Margins: **None**
+- Background graphics: **Yes/Checked**
+
 ## Attribution
 
 ```txt
