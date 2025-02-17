@@ -2,7 +2,7 @@ import type { ListIcons } from '../components/SocialIcon.type.ts';
 
 export type TelType = 'whatsapp' | 'mobile';
 export interface JobType {
-  type: 'freelance' | 'internship' | 'contract';
+  type: 'freelance' | 'internship' | 'contract' | 'full-time' | 'part-time';
   translate: string;
 }
 export interface EducationType {
