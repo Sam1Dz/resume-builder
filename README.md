@@ -136,6 +136,16 @@ const ResumeBuilder: ResumeBuilderType = {
 };
 ```
 
+## Attribution
+
+```txt
+* Flaticon
+  * Original Source:
+    * https://www.flaticon.com/free-icon/cv_3135731
+  * Files:
+    * /public/logo.ico (Original: cv.png)
+```
+
 ## License
 
 The content of this repository is provided
