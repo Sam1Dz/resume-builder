@@ -1,0 +1,46 @@
+{
+  "name": "resume-builder",
+  "description": "Build resume automatically via config. (This project created to showcase about using React.js Framework with Typescript and Tailwind CSS)",
+  "private": true,
+  "version": "2025.217",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam1Dz/resume-builder.git"
+  },
+  "author": "Sam1Dz",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "prettier": "prettier --write .",
+    "outdated": "bunx npm-check-updates --format group -i"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "tailwindcss": "^4.0.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.20.1",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "prettier": "^3.5.1",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "typescript": "~5.7.3",
+    "typescript-eslint": "^8.24.0",
+    "vite": "^6.1.0"
+  }
+}
