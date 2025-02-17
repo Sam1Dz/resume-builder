@@ -8,7 +8,7 @@ export default function Content() {
   const ResumeData = ResumeBuilder;
 
   return (
-    <main className="flex-1 px-4 pt-4">
+    <main className="flex-1 px-4 pt-8">
       <header className="mb-8 flex h-24 flex-col justify-center">
         <h1 className="text-5xl font-bold">{ResumeData.profile.name}</h1>
         <p className="text-xl text-neutral-700">{ResumeData.profile.role}</p>

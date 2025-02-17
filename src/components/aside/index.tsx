@@ -11,7 +11,7 @@ export default function Aside() {
   const ResumeData = ResumeBuilder;
 
   return (
-    <aside className="h-[1122px] w-56 bg-neutral-900 px-4 pt-4 text-neutral-50">
+    <aside className="h-[1122px] w-56 bg-neutral-900 px-4 pt-8 text-neutral-50">
       <div className="mb-8 flex h-24 justify-center">
         <img
           src={ResumeData.profile.photo}
